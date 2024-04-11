@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ESPEX
+message: >-
+  The citation is for the users citing our work through
+  Energy-System-Pathways-Explorer-ESPEX
+type: software
+authors:
+  - given-names: Reema
+    family-names: Mohanty
+    email: r.mohanty1@lboro.ac.uk
+    affiliation: Loughborough University
+  - given-names: Emma
+    family-names: Richardson
+    email: emma.richardson21@imperial.ac.uk
+    affiliation: Loughborough University
+  - given-names: Vignesh
+    email: v.sridharan@imperial.ac.uk
+    family-names: Sridharan
+    affiliation: 'Imperial College,London'
+  - given-names: Naomi
+    family-names: Tan
+    email: naomiyctan@gmail.com
+    affiliation: Loughborough University
+repository-code: >-
+  https://github.com/ClimateCompatibleGrowth/Energy-System-Pathways-Explorer-ESPEX-
+abstract: >-
+  The work is to define the necessity of a carbon calculator
+  for the global scenario. At CCG, we have made a carbon
+  calculator to analyse the emissions(CO2) of a particular
+  country/region. The target areas are transport and
+  electricity.
+keywords:
+  - Decarbonisation
+  - Emissions
+  - Energy Pathways
+  - SDG
+  - Carbon Calculator
+license: MIT
